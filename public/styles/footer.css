@@ -1,0 +1,31 @@
+.footer__main {
+    width: 35vw;
+    min-width: fit-content;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.footer__title {
+    color: #ddd;
+    font-style: italic;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+.footer__container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__icons {
+    width: 50px;
+    margin: 0 10px;
+    border: solid white 2px;
+    border-radius: 25px;
+    transition: 1s;
+    opacity: 50%;
+}
+
+.footer__icons:hover {
+    opacity: 100%;
+}
