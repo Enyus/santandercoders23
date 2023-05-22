@@ -5,7 +5,7 @@ Repositório para guardar os exercícios e desafios da Fase II da Trilha Web Fro
 | -------------  | --- |
 | :sparkles: Nome        | **Titulo do meu projeto**
 | :label: Tecnologias | html, css, javascript
-| :rocket: URL         | TODO
+| :rocket: URL         | https://enyus.github.io/santandercoders23/
 | :fire: Desafio     | TODO
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
