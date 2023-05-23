@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML - Exercício 7</title>
+    <link rel="shortcut icon" href="./public/icons/favicon-32x32.png" type="image/x-icon">
+</head>
+<body>
+    <main>
+        <h1>HTML: Exercício 7</h1>
+        <p>É um exercício para trabalhar com formulários.</p>
+        <form action="" method="GET">
+            <h2>Seja bem-bindo à nossa loja!</h2>
+            <div><label for="nome">Nome:</label><input type="text" id="nome" name="nome" placeholder="Digite seu nome..."></div>
+            <div><label for="email">E-mail:</label><input type="email" id="email" name="email" placeholder="nome@email.com"></div>
+            <div><label for="cpf">CPF:</label><input type="text" id="cpf" name="cpf" placeholder="XXX.XXX.XXX-XX"></div>
+            <div>
+                <p>Qual o seu gênero?</p>
+                <input type="radio" name="genero" value="feminino" id="feminino"><label for="feminino">Feminino</label>
+                <input type="radio" name="genero" value="masculino" id="masculino"><label for="masculino">Masculino</label>
+                <input type="radio" name="genero" value="outro" id="outro"><label for="outro">Outro</label>
+            </div>
+            <div><label for="nascimento">Data de Nascimento</label><input type="date" name="data_nasc" id="nascimento"></div>
+            <div><label for="tel">Telefone</label><input type="tel" name="tel" id="tel"></div>
+            <div>
+                <p>Quer receber notificações por WhatsApp?</p>
+                <input type="radio" name="recebe_wapp" id="wapp_sim" value="1"><label for="wapp_sim">Sim</label>
+                <input type="radio" name="recebe_wapp" id="wapp_nao" value="0"><label for="wapp_nao">Não</label>
+            </div>
+            <div>
+                <p>Quer receber notificações por E-mail?</p>
+                <input type="radio" name="recebe_email" id="email_sim" value="1"><label for="email_sim">Sim</label>
+                <input type="radio" name="recebe_email" id="email_nao" value="0"><label for="email_nao">Não</label>
+            </div>
+            <button type="submit">Cadastrar!</button>
+        </form>
+    </main>
+    <footer>
+        <a href="../index.html#html">Voltar</a>
+    </footer>
+</body>
+</html>
