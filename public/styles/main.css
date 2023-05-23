@@ -53,12 +53,36 @@ main {
 
 article {
     margin-bottom: 2rem;
+    font-size: 1.4rem;
+}
+
+h3 {
+    font-size: 1.6rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+ol {
+    padding: 2rem 0;
+}
+
+ol li {
+    margin-bottom: 1rem;
+}
+
+ul li {
+    list-style: circle;
+    margin-left: 4rem;
 }
 
 .article__title {
     font-size: 2rem;
 }
 
-.fa-code {
-    color: white;
+a {
+    color: #379ad6;
+}
+
+a:visited {
+    color: #379ad6;
 }

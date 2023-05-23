@@ -15,9 +15,9 @@ Repositório para guardar os exercícios e desafios da Fase II da Trilha Web Fro
 Fui selecionado para a segunda fase do programa Santander Coders, que me deu acesso aos cursos introdutórios, ministrados pela <a href="https://ada.tech/sou-aluno">ADA</a>, de Git e Versionamento, HTML, CSS, Javascript e React. Após finalizar as aulas, nos é sugerido realizar alguns exercícios que puderam ser encontrados na <a href="https://discord.com/invite/DgHqnPJc7Y">comunidade no Discord da Let´s Code</a>. Como já estou um pouco familiarizado com essas tecnologias, resolvi criar esse repositório para guardar tais exercícios.
 
 ## Exercícios HTML 🧱
-1. Código HTML que use apenas parágrafos e quebra de linhas (sem usar `<br>`).
-2. Crie um código HTML com 2 imagens das linguagens de programação que você gosta e adicionar favicons.
-3. Você deverá criar um código HTML com várias imagens, parágrafos, favicons e quebras de linhas das linguagens de programação que você gosta.
+1. Código HTML que use apenas parágrafos e quebra de linhas (sem usar `<br>`). <a href="https://enyus.github.io/santandercoders23/html/exercicio1.html">Veja a resolução aqui.</a>
+2. Crie um código HTML com 2 imagens das linguagens de programação que você gosta e adicionar favicons. <a href="https://enyus.github.io/santandercoders23/html/exercicio2.html">Veja a resolução aqui.</a>
+3. Você deverá criar um código HTML com várias imagens, parágrafos, favicons e quebras de linhas das linguagens de programação que você gosta.<a href="https://enyus.github.io/santandercoders23/html/exercicio3.html">Veja a resolução aqui.</a>
 4. Você deverá criar um código HTML com vários emojis de sua preferência.
 5. Você deverá criar um código HTML que contenha uma foto sua e uma breve descrição da sua atuação profissional. Como bônus, pode adicionar links para suas redes sociais ou GitHub.
 6. Você deverá criar um código HTML que contenha links para outras páginas HTML do seu projeto,e links para páginas da web.
