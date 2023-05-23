@@ -86,5 +86,36 @@ Você deverá criar um código HTML com CSS que contenha um portfólio de aprese
 
 
 ## Exercícios Javascript 🧠
+1. Faça um programa que peça a temperatura em graus Fahrenheit (°F), transforme e mostre a temperatura em graus Celsius (°C).
+2. Faça um programa que leia as coordenadas de 2 (dois) pontos em um plano cartesiano 2D: a coordenada x do primeiro ponto (x_1), a coordenada y do primeiro ponto (y_1), a coordenada x do segundo ponto (x_2) e a coordenada y do segundo ponto (y_2). Em seguida, calcule a distância euclidiana entre os pontos.
+3. Crie um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos seguintes intervalos ([0,25], (25,50], (50,75], (75,100]) este valor se encontra. Caso o valor não esteja em nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo”.
+4. Crie o jogo “Pedra, Papel, Tesoura” por meio de um código em JavaScript. Para isso, solicite que o primeiro jogador informe a sua escolha e depois o mesmo para o segundo jogador. Por fim, utilize os if’s para saber quem seria o vencedor.
+5. Faça um programa, usando loops, que peça para o usuário digitar vários números, um após outro, e que só finaliza quando o usuário digitar 0. Ao final imprima a soma de todos os números digitados.
+6. Faça um programa que imprima a tabuada do 9 (de 9 x 1 a 9 x 10) usando loops.
+7. Crie uma função que recebe o valor do raio de um círculo como parâmetro e retorna o valor da área desse círculo.
+8. Faça um programa que dados dois arrays de mesmo tamanho, imprima o produto escalar entre eles.
+9. Vamos fazer um programa para verificar quem é o assassino de um crime. Para descobrir o assassino, a polícia faz um pequeno questionário com 5 perguntas onde a resposta só pode ser sim ou não:<br>
+  9.1. Mora perto da vítima?<br>
+  9.2. Já trabalhou com a vítima?<br>
+  9.3. Telefonou para a vítima?<br>
+  9.4. Esteve no local do crime?<br>
+  9.5. Devia para a vítima?<br>
+Cada resposta “sim” dá um ponto para o suspeito. A polícia considera que os suspeitos com 5 pontos são os assassinos, com 4 a 3 pontos são cúmplices e 2 pontos são apenas suspeitos, necessitando de outras investigações. Valores abaixo de 2 são liberados. No seu programa, você deve fazer essas perguntas e, de acordo com as respostas do usuário, informar como a polícia o considera.
+10. Faça um programa que fique pedindo uma resposta do usuário, entre 1, 2 e 3. Se o usuário digitar 1, o programa deve cadastrar um novo usuário, solicitando nome, idade, e-mail e CPF, guardando esse cadastro em um objeto, e cada objeto devo ser adicionado em um array. Quando o usuário digitar 2, o programa deve imprimir os usuários cadastrados; e se o usuário digitar 3, o programa deve encerrar.
+
+### &#128293; Desafio JavaScript &#128293;
+Você já deve ter jogado o Jogo da Forca, certo? O que você acha de desenvolver o seu próprio Jogo da Forca em JavaScript? Esse será o seu desafio!
+Para te ajudar com isso, vamos te passar algumas diretrizes para que você tenha uma noção clara de como o jogo deve funcionar e de quais etapas você deve seguir para atingir esse resultado. Vamos lá!
+
+1. No início do código, você pode solicitar o nome do jogador. Assim, você pode imprimir uma mensagem de boas-vindas. Talvez até imprimir uma mensagem explicando como o jogo funciona. Porém, uma sugestão é deixar tudo isso para o final, porque assim você pode focar, inicialmente, no funcionamento do jogo, em si.
+2. Você vai precisar definir uma palavra para o jogador descobrir, certo? Na primeira versão do seu código, coloque uma palavra fixa, como "banana", por exemplo. Em uma segunda versão, você pode criar um array com várias palavras e, no início do programa, sortear uma delas. Veja a seção Dicas, ao final deste material, para saber como você poderia fazer esse sorteio.
+3. Escolhida uma palavra para o jogador descobrir, você já pode mostrar para ele quantas letras a palavra tem. Também vai ser importante ter uma outra variável que consiste na palavra que o jogador está tentando acertar.<br>
+  3.1. Para isso, nossa sugestão é que você crie um array que inicia com vários ‘_’ , sendo o número de _ igual ao número de caracteres da palavra que ele precisa descobrir.<br>
+  3.2. Por exemplo, se a palavra for "banana", você deve um array com o seguinte conteúdo: ['_', '_', '_', '_', '_', '_']. Observe que temos 6 caracteres.<br>
+  3.3. Esse array vai ser importante para que você possa mostrar ao usuário o “formato” da palavra e, a medida que ele for acertando as letras, você coloca a letra dentro do array, na posição correta, o que vai facilitar a visualização/identificação da palavra.<br>
+4. A partir daí o jogo começa, ou seja, você irá pedir que o usuário informe uma letra repetidas vezes, até que ele erre 6 vezes (pela regra tradicional do jogo da forca) ou acerte todas as letras da palavra. Observe que isso corresponde a uma estrutura de repetição.
+5. Lembre-se que, ao término dessa repetição, você deve mostrar que o usuário perdeu, caso ele tenha errado 6 vezes; ou que ele acertou a palavra, caso ele a tenha completado. Além disso, é importante que você informe, em todo caso, qual era a palavra a ser descoberta.
+
+
 
 ### <a href="#">Voltar ao topo</a>
