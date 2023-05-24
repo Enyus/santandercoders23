@@ -72,6 +72,7 @@ Você deverá criar um código HTML que contenha um portfólio de apresentação
   ● A visualização de lista deve ter apenas um item por linha e os itens devem ter espaçamento vertical de 2rem;<br>
   ● A visualização de cards deve ter 3 cards por linha de mesmo tamanho e os itens devem ter espaçamento horizontal e vertical de 5rem;<br>
   ● A visualização de destaques deve ter o primeiro e sexto elementos com tamanho maior até 4 vezes maior em relação a cards da mesma linha e os itens devem ter espaçamento horizontal e vertical de 5rem.<br>
+  <a href="https://enyus.github.io/santandercoders23/css/exercicio7.html">Veja a resolução aqui.</a>
  8. Faça o layout mobile para a página da loja do exercício 7 da seguinte forma:<br>
   ● Permita que apenas sejam selecionados os modos de visualização de cards e lista<br>
   ● Na visão de cards devem ter 2 cards por linha<br>

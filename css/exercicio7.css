@@ -69,7 +69,7 @@ body {
     cursor: pointer;
 }
 
-input[type="radio"].nav__list--item:checked + .nav__button {
+.nav__list--item:checked + .nav__button {
     background-color: var(--secondary-color);
     color: var(--border-color);
 }
@@ -85,8 +85,12 @@ input[type="radio"].nav__list--item:checked + .nav__button {
     border: var(--border-color) solid 2px;
 }
 
-#lista:checked ~ .produtos__container {
+:has(#lista:checked) ~ .produtos__container {
     grid-template-columns: 1fr;
+}
+
+:has(#lista:checked) ~ .produtos__container .produtos__card {
+    height: 10rem;
 }
 
 footer {
