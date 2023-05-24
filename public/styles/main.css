@@ -52,12 +52,12 @@ main {
 }
 
 article {
-    margin-bottom: 2rem;
-    font-size: 1.4rem;
+    margin-bottom: 8rem;
+    font-size: 1.6rem;
 }
 
 h3 {
-    font-size: 1.6rem;
+    font-size: 2rem;
     font-weight: 700;
     margin-bottom: 0.5rem;
 }
@@ -98,4 +98,33 @@ a:visited {
 .desafio h3 {
     text-align: center;
     margin-bottom: 2rem;
+}
+
+.container__imagem img {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.up__icon {
+    fill: #ddd;
+    height: 30px;
+}
+
+.up__container {
+    border: #ddd 2px solid;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right: 2rem;
+    bottom: 2rem;
+    opacity: 0.5;
+}
+
+.up__container:hover {
+    opacity: 1;
 }
