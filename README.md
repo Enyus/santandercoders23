@@ -46,23 +46,27 @@ Você deverá criar um código HTML que contenha um portfólio de apresentação
 
 
 ## Exercícios CSS 🎨
-1. Você deverá criar um código HTML com CSS que contenha texto e no body seja Verdana, tamanho Médio, preto, com fundo amarelo e sem margens. Faça todas as fontes de título Georgia, e faça Heading 1 xx-large e cardinal red.
-2. Você deverá criar um código HTML com CSS que contenha texto e crie uma classe chamada renda e torne-a uma cor de fundo de #0ff. Crie uma classe chamada despesas e faça com que a cor de fundo seja #f0f. Crie uma classe chamada lucro e torne-a uma cor de fundo de #f00. Ao longo do documento, qualquer texto que menciona receitas, despesas ou lucros, anexou a classe apropriada a esse pedaço de texto.
+1. Você deverá criar um código HTML com CSS que contenha texto e no body seja Verdana, tamanho Médio, preto, com fundo amarelo e sem margens. Faça todas as fontes de título Georgia, e faça Heading 1 xx-large e cardinal red. <a href="https://enyus.github.io/santandercoders23/css/exercicio1.html">Veja a resolução aqui.</a>
+2. Você deverá criar um código HTML com CSS que contenha texto e crie uma classe chamada renda e torne-a uma cor de fundo de #0ff. Crie uma classe chamada despesas e faça com que a cor de fundo seja #f0f. Crie uma classe chamada lucro e torne-a uma cor de fundo de #f00. Ao longo do documento, qualquer texto que menciona receitas, despesas ou lucros, anexou a classe apropriada a esse pedaço de texto. <a href="https://enyus.github.io/santandercoders23/css/exercicio2.html">Veja a resolução aqui.</a>
 3. Você deverá criar um código HTML com CSS para alterar a tag li para ter as seguintes propriedades:<br>
   ● Um status de exibição de inline <br>
   ● Uma borda preta média com duas linhas <br>
   ● Nenhum tipo de estilo de lista <br>
+   <a href="https://enyus.github.io/santandercoders23/css/exercicio3.html">Veja a resolução aqui.</a>
 4. Você deverá criar um código HTML com CSS para adicionar as seguintes propriedades no estilo da tag li:<br>
   ● Margem de 5px; <br>
   ● Preenchimento de 10px para cima, 20px para a direita, 10px para baixo e 20px para a esquerda.<br>
+   <a href="https://enyus.github.io/santandercoders23/css/exercicio4.html">Veja a resolução aqui.</a>
 5. Você deverá criar um código HTML com CSS para adicionar uma regra avançada de p:first-letter e crie as seguintes propriedades para esta regra:<br>
   ● Tamanho da fonte de 36px <br>
   ● Peso da fonte em negrito <br>
+   <a href="https://enyus.github.io/santandercoders23/css/exercicio5.html">Veja a resolução aqui.</a>
 6. Estilize a página de um sumário para se assemelhar ao modelo abaixo. Atente para os requisitos principais:<br>
   ● As cores de fundo dos tópicos devem se alternar entre a cor definida por --separator-color e #fff<br>
   ● Utilize variáveis do CSS para colorir as tags de tecnologias e garanta que o 1o e 6o elementos tenham a cor definida na --tag-color-1, 2o e 7o com a --tag-color-2, 3o e 8o com a --tag-color-3 e assim por diante<br>
   ● Garanta que a tag de tecnologia numerada fique fixa ao fazer scroll até encontrar a próxima (dica: use display sticky)<br>
- <img src="./public/images/exercio-css-6.jpg" alt="Resultado esperado exercício 6">
+ <img src="./public/images/exercio-css-6.jpg" alt="Resultado esperado exercício 6"><br>
+  <a href="https://enyus.github.io/santandercoders23/css/exercicio6.html">Veja a resolução aqui.</a>
  7. Adicione regras nos locais indicados do arquivo styles.css para fazer uma visualização em lista, cards ou destaques segundo as imagens abaixo:
  <img src="./public/images/exercio-css-7.jpg" alt="Resultado esperado exercício 7">
   ● A visualização de lista deve ter apenas um item por linha e os itens devem ter espaçamento vertical de 2rem;<br>

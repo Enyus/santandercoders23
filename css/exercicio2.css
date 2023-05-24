@@ -1,0 +1,15 @@
+li {
+    width: max-content;
+}
+
+.renda {
+    background-color: #0ff;
+}
+
+.despesas {
+    background-color: #f0f;
+}
+
+.lucro {
+    background-color: #f00;
+}

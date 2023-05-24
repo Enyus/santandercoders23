@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+:root {
+    font-size: 62.5%;
+    --background: #8aa6fa;
+    --separator-color: #edf2f5;
+    --tag-color-1: #fc615d;
+    --tag-color-2: #4dd0cb;
+    --tag-color-3: #dfd880;
+}
+
+body {
+    background-color: var(--background);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+main {
+    background-color: white;
+    width: 60%;
+    border-radius: 2rem;
+    margin: 3rem auto;
+    padding: 3rem 1rem;
+    font-size: 1.4rem;
+}
+
+.titulo__principal {
+    text-align: center;
+    font-size: 3.6rem;
+    margin-bottom: 4rem;
+}
+
+.titulo__jornada {
+    color: var(--background);
+}
+
+ol li::marker {
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.tag__tecnologia h2 {
+    width: fit-content;
+    padding: 0.5rem 1rem;
+    border-radius: 0.3rem;
+    color: white;
+    position: sticky;
+    top: 2rem;
+}
+
+.tag__tecnologia:nth-child(5n+1) h2 {
+    background-color: var(--tag-color-1);
+}
+
+.tag__tecnologia:nth-child(5n+2) h2 {
+    background-color: var(--tag-color-2);
+}
+
+.tag__tecnologia:nth-child(5n+3) h2 {
+    background-color: var(--tag-color-3);
+}
+
+ul {
+    padding: 2rem 0;
+}
+
+ul li {
+    margin: 1rem 8rem 1rem 0;
+    padding: 0.5rem 1rem;
+    font-weight: 600;
+}
+
+ul li:nth-of-type(2n+1) {
+    background-color: var(--separator-color);
+}
+
+footer {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
