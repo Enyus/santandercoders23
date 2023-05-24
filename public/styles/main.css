@@ -86,3 +86,16 @@ a {
 a:visited {
     color: #379ad6;
 }
+
+.desafio {
+    font-style: italic;
+    padding: 2rem;
+    border: 2px #ddd solid;
+    border-radius: 1.5rem;
+    margin: 0 6rem;
+}
+
+.desafio h3 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
