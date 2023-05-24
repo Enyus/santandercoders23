@@ -20,10 +20,10 @@ Fui selecionado para a segunda fase do programa Santander Coders, que me deu ace
 ## Exercícios HTML 🧱
 1. Código HTML que use apenas parágrafos e quebra de linhas (sem usar `<br>`). <a href="https://enyus.github.io/santandercoders23/html/exercicio1.html">Veja a resolução aqui.</a>
 2. Crie um código HTML com 2 imagens das linguagens de programação que você gosta e adicionar favicons. <a href="https://enyus.github.io/santandercoders23/html/exercicio2.html">Veja a resolução aqui.</a>
-3. Você deverá criar um código HTML com várias imagens, parágrafos, favicons e quebras de linhas das linguagens de programação que você gosta.<a href="https://enyus.github.io/santandercoders23/html/exercicio3.html">Veja a resolução aqui.</a>
-4. Você deverá criar um código HTML com vários emojis de sua preferência.
-5. Você deverá criar um código HTML que contenha uma foto sua e uma breve descrição da sua atuação profissional. Como bônus, pode adicionar links para suas redes sociais ou GitHub.
-6. Você deverá criar um código HTML que contenha links para outras páginas HTML do seu projeto,e links para páginas da web.
+3. Você deverá criar um código HTML com várias imagens, parágrafos, favicons e quebras de linhas das linguagens de programação que você gosta. <a href="https://enyus.github.io/santandercoders23/html/exercicio3.html">Veja a resolução aqui.</a>
+4. Você deverá criar um código HTML com vários emojis de sua preferência. <a href="https://enyus.github.io/santandercoders23/html/exercicio4.html">Veja a resolução aqui.</a>
+5. Você deverá criar um código HTML que contenha uma foto sua e uma breve descrição da sua atuação profissional. Como bônus, pode adicionar links para suas redes sociais ou GitHub. <a href="https://enyus.github.io/santandercoders23/html/exercicio5.html">Veja a resolução aqui.</a>
+6. Você deverá criar um código HTML que contenha links para outras páginas HTML do seu projeto,e links para páginas da web. <a href="https://enyus.github.io/santandercoders23/html/exercicio6.html">Veja a resolução aqui.</a>
 7. Agora, você deve criar um formulário HTML de cadastro de pessoas em uma loja virtual. Nesse formulário, você deve solicitar as seguintes informações ao usuário:<br>
   ● Nome<br>
   ● E-mail<br>
@@ -32,13 +32,15 @@ Fui selecionado para a segunda fase do programa Santander Coders, que me deu ace
   ● Data de Nascimento<br>
   ● Telefone<br>
   ● Quer ou não receber notificações por WhatsApp<br>
-  ● Quer ou não receber ofertas por e-mail
-8. Crie um código HTML que contenha uma tabela com o mesmo conteúdo contido na tabela presente <a href="https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/">neste link</a>.
-9. Reproduza a tabela ilustrada pela imagem <a href="https://k12digitalcourses.com/wp-content/uploads/2018/07/tableexample.png">deste link</a> utilizando um código HTML.
-10. Você deverá criar um código HTML que contenha listas ordenadas e listas não ordenadas. Além disso, aproveite para utilizar listas não ordenadas para criar uma barra de navegação na sua página.
+  ● Quer ou não receber ofertas por e-mail<br>
+  <a href="https://enyus.github.io/santandercoders23/html/exercicio7.html">Veja a resolução aqui.</a>
+8. Crie um código HTML que contenha uma tabela com o mesmo conteúdo contido na tabela presente <a href="https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/">neste link</a>.  <a href="https://enyus.github.io/santandercoders23/html/exercicio8.html">Veja a resolução aqui.</a>
+9. Reproduza a tabela ilustrada pela imagem <a href="https://k12digitalcourses.com/wp-content/uploads/2018/07/tableexample.png">deste link</a> utilizando um código HTML.  <a href="https://enyus.github.io/santandercoders23/html/exercicio9.html">Veja a resolução aqui.</a>
+10. Você deverá criar um código HTML que contenha listas ordenadas e listas não ordenadas. Além disso, aproveite para utilizar listas não ordenadas para criar uma barra de navegação na sua página. <a href="https://enyus.github.io/santandercoders23/html/exercicio10.html">Veja a resolução aqui.</a>
 
 ### &#128293; Desafio HTML &#128293;
 Você deverá criar um código HTML que contenha um portfólio de apresentação de você como desenvolvedor. Esse portfólio deverá conter uma foto sua, redes sociais para contato, descrição das suas experiências, somente utilizando HTML. Ao final, colocar o portfólio no GitHub Pages.
+ <a href="https://enyus.github.io/santandercoders23/html/desafio.html">Veja a resolução aqui.</a>
 
 ### <a href="#">Voltar ao topo</a>
 
