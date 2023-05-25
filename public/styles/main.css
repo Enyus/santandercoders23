@@ -129,3 +129,30 @@ a:visited {
 .up__container:hover {
     opacity: 1;
 }
+
+
+@media screen and (max-width: 760px) {
+    main {
+        margin: 4rem 10%;
+    }
+
+    h1, .article__title {
+        font-size: 2rem;
+    }
+
+    .main__icon--code, .main__icon {
+        height: 2rem;
+    }
+
+    ol ul li {
+        margin-bottom: 0;
+    }
+
+    .desafio {
+        margin: 0;
+    }
+
+    .container__imagem img {
+        width: 100%;
+    }
+}

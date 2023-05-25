@@ -7,4 +7,11 @@ header {
 
 .header__img {
     height: -webkit-fill-available;
+    max-width: 100%;
+}
+
+@media screen and (max-width: 760px) {
+    header {
+        height: unset;
+    }
 }
