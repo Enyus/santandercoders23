@@ -43,7 +43,7 @@ Você deverá criar um código HTML que contenha um portfólio de apresentação
  <a href="https://enyus.github.io/santandercoders23/html/desafio.html">Veja a resolução aqui.</a>
 
 ### <a href="#">Voltar ao topo</a>
-
+<br>
 
 ## Exercícios CSS 🎨
 1. Você deverá criar um código HTML com CSS que contenha texto e no body seja Verdana, tamanho Médio, preto, com fundo amarelo e sem margens. Faça todas as fontes de título Georgia, e faça Heading 1 xx-large e cardinal red. <a href="https://enyus.github.io/santandercoders23/css/exercicio1.html">Veja a resolução aqui.</a>
@@ -72,25 +72,29 @@ Você deverá criar um código HTML que contenha um portfólio de apresentação
   ● A visualização de lista deve ter apenas um item por linha e os itens devem ter espaçamento vertical de 2rem;<br>
   ● A visualização de cards deve ter 3 cards por linha de mesmo tamanho e os itens devem ter espaçamento horizontal e vertical de 5rem;<br>
   ● A visualização de destaques deve ter o primeiro e sexto elementos com tamanho maior até 4 vezes maior em relação a cards da mesma linha e os itens devem ter espaçamento horizontal e vertical de 5rem.<br>
-  <a href="https://enyus.github.io/santandercoders23/css/exercicio7.html">Veja a resolução aqui.</a>
+  <a href="https://enyus.github.io/santandercoders23/css/exercicio7.html">Veja a resolução aqui.</a><br>
  8. Faça o layout mobile para a página da loja do exercício 7 da seguinte forma:<br>
   ● Permita que apenas sejam selecionados os modos de visualização de cards e lista<br>
   ● Na visão de cards devem ter 2 cards por linha<br>
   ● Garanta que os botões para troca de visualização apareçam fixos no topo da tela com position fixed ou sticky<br>
+  <a href="https://enyus.github.io/santandercoders23/css/exercicio8.html">Veja a resolução aqui.</a><br>
 9. Adicione apenas uma propriedade grid-template-areas na classe react-card sem fazer mais nenhuma modificação para deixar o layout similar à imagem abaixo:
-<img src="./public/images/exercio-css-9.jpg" alt="Resultado esperado exercício 9">
+<img src="./public/images/exercio-css-9.jpg" alt="Resultado esperado exercício 9"><br>
+<a href="https://enyus.github.io/santandercoders23/css/exercicio9.html">Veja a resolução aqui.</a><br>
 10. Faça um overlay para esmaecer a imagem de capa abaixo, utilizando apenas 2 pseudo elementos para isso (::after e ::before), da seguinte forma:<br>
   ● Overlay no ::before com fundo #000, opacidade 0.6 e cobrindo toda a imagem de capa<br>
   ● Texto no ::after de cor #fff sem ser afetado pelo overlay, com conteúdo "O mundo como você nunca viu", largura máxima de 30rem, tamanho de 8rem, altura de linha 7rem e posicionado à 3rem da borda esquerda sobre o overlay e imagem.<br>
   ● Faça uma animação para que o ícone da seta se desloque para baixo em 0.5rem e retorne para a posição inicial após 2 segundos<br>
-<img src="./public/images/exercio-css-10.jpg" alt="Resultado esperado exercício 10">
+<img src="./public/images/exercio-css-10.jpg" alt="Resultado esperado exercício 10"><br>
+<a href="https://enyus.github.io/santandercoders23/css/exercicio10.html">Veja a resolução aqui.</a><br>
 
 ### &#128293; Desafio CSS &#128293;
 Você deverá criar um código HTML com CSS que contenha um portfólio de apresentação seu, como desenvolvedor. Esse portfólio deverá conter uma foto sua, redes sociais para contato e descrição das suas experiências, tudo utilizando somente HTML e CSS. Ao final, coloque o portfólio no GitHub Pages.
+<a href="https://enyus.github.io/santandercoders23/css/desafio.html">Veja a resolução aqui.</a><br>
 
 
 ### <a href="#">Voltar ao topo</a>
-
+<br>
 
 ## Exercícios Javascript 🧠
 1. Faça um programa que peça a temperatura em graus Fahrenheit (°F), transforme e mostre a temperatura em graus Celsius (°C).

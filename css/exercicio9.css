@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+:root {
+    font-size: 62.5%;
+    --main-color: #ccc;
+    --secondary-color: #60dbfa;
+    --main-font-family: 'Roboto', sans-serif;
+    --background-color: #7145c0;
+}
+
+body {
+    font-family: var(--main-font-family);
+    color: var(--main-color);
+    background-color: var(--background-color);
+    padding: 8rem 20rem;
+    font-size: 1.6rem;
+}
+
+.container {
+    display: grid;
+    gap: 4rem;
+    grid-template-areas:
+        "title title title title title title"
+        "subtitle subtitle subtitle subtitle subtitle subtitle"
+        "react react ano ano declarativo declarativo"
+        "react react ano ano componentes componentes"
+        "react react stats stats stats stats"
+        "react react aplicabilidade aplicabilidade aplicabilidade aplicabilidade"
+    ;
+    align-items: center;
+}
+
+.title {
+    grid-area: title;
+    font-size: 4.8rem;
+    font-weight: 900;
+}
+
+.subtitle {
+    grid-area: subtitle;
+    font-size: 2rem;
+}
+
+.logo__react {
+    grid-area: react;
+    max-width: 25vw;
+}
+
+.ano {
+    grid-area: ano;
+    font-size: 10rem;
+    color: var(--secondary-color);
+}
+
+.descricao__title {
+    font-weight: 700;
+}
+
+.declarativo {
+    grid-area: declarativo;
+}
+
+.componentes {
+    grid-area: componentes;
+}
+
+.stats {
+    grid-area: stats;
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+.logo__meta {
+    height: 8rem;
+    border-radius: 50%;
+}
+
+.stats__approval {
+    color: var(--secondary-color);
+    font-weight: 900;
+}
+
+.aplicabilidade {
+    grid-area: aplicabilidade;
+}
+
+footer {
+    text-align: center;
+    font-size: 3rem;
+    margin: 2rem;
+}

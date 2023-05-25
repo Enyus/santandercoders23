@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    padding: 1rem;
+    font-size: 2rem;
+}
+
+.imagem {
+    width: 100%;
+    height: 50vh;
+    background-image: url("../public/images/exercio-css-10-1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.imagem::before {
+    content: "";
+    position: relative;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    opacity: .6;
+}
+
+.imagem::after {
+    content: "O mundo como você nunca viu";
+    color: #fff;
+    font-size: 6.5rem;
+    line-height: 5rem;
+    position: relative;
+    top: -100%;
+    display: block;
+    max-width: 25rem;
+    padding: 2rem;
+    font-weight: 900;
+}
+
+.nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin: 2rem;
+}
+
+.nav__desc {
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.nav__icon {
+    height: 5rem;
+    display: block;
+    margin: 0 auto;
+    animation: seta 2s infinite;
+}
+
+.description {
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr;
+    margin: 3rem 6rem;
+    gap: 3rem;
+}
+
+.description p {
+    padding-left: 2rem;
+}
+
+.description p:nth-of-type(n+2) {
+    border-left: 2px grey solid;
+}
+
+.venda__button {
+    display: block;
+    margin: 0 auto;
+    background-color: #01bbf8;
+    width: fit-content;
+    padding: 0.5rem 2rem;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+footer {
+    text-align: center;
+    font-size: 2rem;
+    margin: 2rem;
+}
+
+@keyframes seta {
+    0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(0.5rem);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}

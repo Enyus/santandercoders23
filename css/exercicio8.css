@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500;700&family=Roboto:wght@500;700&display=swap');
+/*
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif;
+*/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+:root {
+    font-size: 62.5%;
+    --main-color: #595959;
+    --secondary-color: #52b799;
+    --main-font-family: 'Roboto', sans-serif;
+    --secondary-font-family: 'Roboto Slab', serif;
+    --border-color: #efefef;
+}
+
+body {
+    font-family: var(--main-font-family);
+    margin: 2rem 4rem; 
+    color: var(--main-color);
+}
+
+.logo {
+    font-family: var(--secondary-font-family);
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--main-color);
+    border-bottom: var(--border-color) solid 2px;
+    padding: 0 2rem 1rem 2rem;
+}
+
+.logo__color {
+    color: var(--secondary-color);
+}
+
+.nav__container {
+    display: flex;
+    align-items: center;
+}
+
+.nav__title {
+    font-size: 2.8rem;
+    padding: 1rem 2rem;
+    font-weight: 700;
+}
+
+.nav__list {
+    display: flex;
+    padding: 0;
+    gap: 1rem;
+}
+
+.nav__list--item {
+    display: none;
+}
+
+.nav__button {
+    text-align: center;
+    display: block;
+    border-radius: 0.5rem;
+    background-color: var(--border-color);
+    padding: 0.5rem 1rem;
+    width: 100%;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.nav__list--item:checked + .nav__button {
+    background-color: var(--secondary-color);
+    color: var(--border-color);
+}
+
+.produtos__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 3rem;
+}
+
+.produtos__card {
+    height: 20rem;
+    border: var(--border-color) solid 2px;
+}
+
+:has(#lista:checked) ~ .produtos__container {
+    grid-template-columns: 1fr;
+}
+
+:has(#lista:checked) ~ .produtos__container .produtos__card {
+    height: 10rem;
+}
+
+footer {
+    text-align: center;
+    font-size: 2rem;
+    margin: 2rem 0;
+}
+
+@media screen and (max-width: 480px) {
+    .nav__container {
+        position: sticky;
+        top: 0.5rem;
+        background-color: white;
+    }
+
+    .nav__list {
+        gap: 2rem;
+    }
+
+    #destaques+label {
+        display: none;
+    }
+
+    .produtos__container {
+        grid-template-columns: 1fr 1fr;
+    }
+}

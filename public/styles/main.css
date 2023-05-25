@@ -26,7 +26,7 @@ h1 {
 }
 
 .main__icon {
-    height: 2rem;
+    height: 3rem;
     vertical-align: bottom;
 }
 
@@ -76,7 +76,8 @@ ul li {
 }
 
 .article__title {
-    font-size: 2rem;
+    font-size: 3rem;
+    text-align: center;
 }
 
 a {
