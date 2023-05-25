@@ -110,7 +110,8 @@ Você deverá criar um código HTML com CSS que contenha um portfólio de aprese
 ## Exercícios Javascript 🧠
 1. Faça um programa que peça a temperatura em graus Fahrenheit (°F), transforme e mostre a temperatura em graus Celsius (°C).<br>
 <a href="https://enyus.github.io/santandercoders23/javascript/exercicio1.html">Veja a resolução aqui.</a><br>
-2. Faça um programa que leia as coordenadas de 2 (dois) pontos em um plano cartesiano 2D: a coordenada x do primeiro ponto (x_1), a coordenada y do primeiro ponto (y_1), a coordenada x do segundo ponto (x_2) e a coordenada y do segundo ponto (y_2). Em seguida, calcule a distância euclidiana entre os pontos.
+2. Faça um programa que leia as coordenadas de 2 (dois) pontos em um plano cartesiano 2D: a coordenada x do primeiro ponto (x_1), a coordenada y do primeiro ponto (y_1), a coordenada x do segundo ponto (x_2) e a coordenada y do segundo ponto (y_2). Em seguida, calcule a distância euclidiana entre os pontos.<br>
+<a href="https://enyus.github.io/santandercoders23/javascript/exercicio2.html">Veja a resolução aqui.</a><br>
 3. Crie um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos seguintes intervalos ([0,25], (25,50], (50,75], (75,100]) este valor se encontra. Caso o valor não esteja em nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo”.
 4. Crie o jogo “Pedra, Papel, Tesoura” por meio de um código em JavaScript. Para isso, solicite que o primeiro jogador informe a sua escolha e depois o mesmo para o segundo jogador. Por fim, utilize os if’s para saber quem seria o vencedor.
 5. Faça um programa, usando loops, que peça para o usuário digitar vários números, um após outro, e que só finaliza quando o usuário digitar 0. Ao final imprima a soma de todos os números digitados.
