@@ -1,0 +1,56 @@
+.input__container {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: #ddd 2px solid;
+    padding-bottom: 2rem;
+}
+
+.input__icon {
+    fill: blue;
+    height: 10rem;
+}
+
+.button__ppt {
+    cursor: pointer;
+    background-color: inherit;
+    border: none;
+    transition: all 0.5s ease;
+}
+
+.button__ppt:hover {
+    transform: scale(1.4);
+}
+
+.result__container {
+    display: flex;
+    flex-direction: column;
+}
+
+.result__image {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+}
+
+.result__escolha {
+    justify-self: center;
+}
+
+.result__icon {
+    height: 20rem;
+}
+
+.result__text {
+    text-align: center;
+    font-size: 3rem;
+}
+
+.vencedor {
+    fill: lightgreen;
+    transform: scale(1.2);
+}
+
+.perdedor {
+    fill: gray;
+    transform: scale(0.8);
+}
