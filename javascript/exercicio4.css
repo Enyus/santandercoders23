@@ -38,6 +38,7 @@
 
 .result__icon {
     height: 20rem;
+    fill: blue;
 }
 
 .result__text {
@@ -53,4 +54,31 @@
 .perdedor {
     fill: gray;
     transform: scale(0.8);
+}
+
+@media screen and (max-width: 760px) {
+    .input__container {
+        flex-wrap: wrap;
+    }
+
+    .input__container p {
+        width: 100%;
+    }
+
+    .input__icon {
+        height: 7rem;
+    }
+
+    .result__container {
+        padding-top: 0;
+    }
+
+    .result__text {
+        margin: 0 0 2rem;
+        font-size: 2rem;
+    }
+
+    .result__icon {
+        height: 10rem;
+    }
 }
