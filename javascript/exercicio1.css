@@ -1,0 +1,104 @@
+@import url('./reset.css');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700;900&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: #111;
+    font-family: 'Roboto', sans-serif;
+    color: #ddd;
+    font-size: 2rem;
+    margin: 0 20%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3.2rem;
+    font-weight: 900;
+    margin: 2rem 0;
+    color: #ddd;
+}
+
+.header__icon {
+    height: 3.3rem;
+    vertical-align: top;
+    fill: #f7df1e;
+}
+
+math {
+    font-family: inherit;
+    display: block math;
+    font-size: 4rem;
+}
+
+.input__container {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.input__temp {
+    background-color: inherit;
+    color: inherit;
+    font-family: inherit;
+    font-size: 2rem;
+    text-align: center;
+    border-style: solid;
+    line-height: 2.5rem;
+}
+
+.button__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0 0;
+    padding-bottom: 2rem;
+    border-bottom: #ddd 2px solid;
+}
+
+.button__button {
+    margin: 0 auto;
+    background-color: #ddd;
+    color: #111;
+    font-family: inherit;
+    padding: 0.5rem 2rem;
+    cursor: pointer;
+    font-weight: 900;
+    border-radius: 0.5rem;
+    font-size: 2rem;
+}
+
+.result__container {
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+    display: none;
+    border-bottom: #ddd 2px solid;
+}
+
+#result {
+    font-size: 3rem;
+    margin: 0;
+}
+
+#result::after {
+    content: "ºC";
+}
+
+footer {
+    text-align: center;
+    font-size: 2rem;
+    margin: 2rem;
+}
+
+footer a, footer a:visited {
+    color: inherit;
+    text-decoration: none;
+}

@@ -93,6 +93,17 @@ body {
     height: 10rem;
 }
 
+:has(#destaques:checked) ~ .produtos__container {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+}
+
+:has(#destaques:checked) ~ .produtos__container .produtos__card:nth-of-type(5n+1) {
+    grid-column: span 2;
+    grid-row: span 2;
+    height: 100%;
+}
+
 footer {
     text-align: center;
     font-size: 2rem;

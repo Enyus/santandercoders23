@@ -18,12 +18,18 @@ Fui selecionado para a segunda fase do programa Santander Coders, que me deu ace
 | <a href="#exercícios-html-">Exercícios de HTML</a> | <a href="#exercícios-css-">Exercícios de CSS</a> | <a href="#exercícios-javascript-">Exercícios de JavaScript</a> |
 
 ## Exercícios HTML 🧱
-1. Código HTML que use apenas parágrafos e quebra de linhas (sem usar `<br>`). <a href="https://enyus.github.io/santandercoders23/html/exercicio1.html">Veja a resolução aqui.</a>
-2. Crie um código HTML com 2 imagens das linguagens de programação que você gosta e adicionar favicons. <a href="https://enyus.github.io/santandercoders23/html/exercicio2.html">Veja a resolução aqui.</a>
-3. Você deverá criar um código HTML com várias imagens, parágrafos, favicons e quebras de linhas das linguagens de programação que você gosta. <a href="https://enyus.github.io/santandercoders23/html/exercicio3.html">Veja a resolução aqui.</a>
-4. Você deverá criar um código HTML com vários emojis de sua preferência. <a href="https://enyus.github.io/santandercoders23/html/exercicio4.html">Veja a resolução aqui.</a>
-5. Você deverá criar um código HTML que contenha uma foto sua e uma breve descrição da sua atuação profissional. Como bônus, pode adicionar links para suas redes sociais ou GitHub. <a href="https://enyus.github.io/santandercoders23/html/exercicio5.html">Veja a resolução aqui.</a>
-6. Você deverá criar um código HTML que contenha links para outras páginas HTML do seu projeto,e links para páginas da web. <a href="https://enyus.github.io/santandercoders23/html/exercicio6.html">Veja a resolução aqui.</a>
+1. Código HTML que use apenas parágrafos e quebra de linhas (sem usar `<br>`).<br>
+<a href="https://enyus.github.io/santandercoders23/html/exercicio1.html">Veja a resolução aqui.</a>
+2. Crie um código HTML com 2 imagens das linguagens de programação que você gosta e adicionar favicons.<br>
+<a href="https://enyus.github.io/santandercoders23/html/exercicio2.html">Veja a resolução aqui.</a>
+3. Você deverá criar um código HTML com várias imagens, parágrafos, favicons e quebras de linhas das linguagens de programação que você gosta.<br>
+<a href="https://enyus.github.io/santandercoders23/html/exercicio3.html">Veja a resolução aqui.</a>
+4. Você deverá criar um código HTML com vários emojis de sua preferência.<br>
+<a href="https://enyus.github.io/santandercoders23/html/exercicio4.html">Veja a resolução aqui.</a>
+5. Você deverá criar um código HTML que contenha uma foto sua e uma breve descrição da sua atuação profissional. Como bônus, pode adicionar links para suas redes sociais ou GitHub.<br>
+<a href="https://enyus.github.io/santandercoders23/html/exercicio5.html">Veja a resolução aqui.</a>
+6. Você deverá criar um código HTML que contenha links para outras páginas HTML do seu projeto,e links para páginas da web.<br>
+<a href="https://enyus.github.io/santandercoders23/html/exercicio6.html">Veja a resolução aqui.</a>
 7. Agora, você deve criar um formulário HTML de cadastro de pessoas em uma loja virtual. Nesse formulário, você deve solicitar as seguintes informações ao usuário:<br>
   ● Nome<br>
   ● E-mail<br>
@@ -34,20 +40,25 @@ Fui selecionado para a segunda fase do programa Santander Coders, que me deu ace
   ● Quer ou não receber notificações por WhatsApp<br>
   ● Quer ou não receber ofertas por e-mail<br>
   <a href="https://enyus.github.io/santandercoders23/html/exercicio7.html">Veja a resolução aqui.</a>
-8. Crie um código HTML que contenha uma tabela com o mesmo conteúdo contido na tabela presente <a href="https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/">neste link</a>.  <a href="https://enyus.github.io/santandercoders23/html/exercicio8.html">Veja a resolução aqui.</a>
-9. Reproduza a tabela ilustrada pela imagem <a href="https://k12digitalcourses.com/wp-content/uploads/2018/07/tableexample.png">deste link</a> utilizando um código HTML.  <a href="https://enyus.github.io/santandercoders23/html/exercicio9.html">Veja a resolução aqui.</a>
-10. Você deverá criar um código HTML que contenha listas ordenadas e listas não ordenadas. Além disso, aproveite para utilizar listas não ordenadas para criar uma barra de navegação na sua página. <a href="https://enyus.github.io/santandercoders23/html/exercicio10.html">Veja a resolução aqui.</a>
+8. Crie um código HTML que contenha uma tabela com o mesmo conteúdo contido na tabela presente <a href="https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/">neste link</a>.<br>
+<a href="https://enyus.github.io/santandercoders23/html/exercicio8.html">Veja a resolução aqui.</a>
+9. Reproduza a tabela ilustrada pela imagem <a href="https://k12digitalcourses.com/wp-content/uploads/2018/07/tableexample.png">deste link</a> utilizando um código HTML.<br>
+<a href="https://enyus.github.io/santandercoders23/html/exercicio9.html">Veja a resolução aqui.</a>
+10. Você deverá criar um código HTML que contenha listas ordenadas e listas não ordenadas. Além disso, aproveite para utilizar listas não ordenadas para criar uma barra de navegação na sua página.<br>
+<a href="https://enyus.github.io/santandercoders23/html/exercicio10.html">Veja a resolução aqui.</a>
 
 ### &#128293; Desafio HTML &#128293;
-Você deverá criar um código HTML que contenha um portfólio de apresentação de você como desenvolvedor. Esse portfólio deverá conter uma foto sua, redes sociais para contato, descrição das suas experiências, somente utilizando HTML. Ao final, colocar o portfólio no GitHub Pages.
+Você deverá criar um código HTML que contenha um portfólio de apresentação de você como desenvolvedor. Esse portfólio deverá conter uma foto sua, redes sociais para contato, descrição das suas experiências, somente utilizando HTML. Ao final, colocar o portfólio no GitHub Pages.<br>
  <a href="https://enyus.github.io/santandercoders23/html/desafio.html">Veja a resolução aqui.</a>
 
 ### <a href="#">Voltar ao topo</a>
 <br>
 
 ## Exercícios CSS 🎨
-1. Você deverá criar um código HTML com CSS que contenha texto e no body seja Verdana, tamanho Médio, preto, com fundo amarelo e sem margens. Faça todas as fontes de título Georgia, e faça Heading 1 xx-large e cardinal red. <a href="https://enyus.github.io/santandercoders23/css/exercicio1.html">Veja a resolução aqui.</a>
-2. Você deverá criar um código HTML com CSS que contenha texto e crie uma classe chamada renda e torne-a uma cor de fundo de #0ff. Crie uma classe chamada despesas e faça com que a cor de fundo seja #f0f. Crie uma classe chamada lucro e torne-a uma cor de fundo de #f00. Ao longo do documento, qualquer texto que menciona receitas, despesas ou lucros, anexou a classe apropriada a esse pedaço de texto. <a href="https://enyus.github.io/santandercoders23/css/exercicio2.html">Veja a resolução aqui.</a>
+1. Você deverá criar um código HTML com CSS que contenha texto e no body seja Verdana, tamanho Médio, preto, com fundo amarelo e sem margens. Faça todas as fontes de título Georgia, e faça Heading 1 xx-large e cardinal red.<br>
+<a href="https://enyus.github.io/santandercoders23/css/exercicio1.html">Veja a resolução aqui.</a><br>
+2. Você deverá criar um código HTML com CSS que contenha texto e crie uma classe chamada renda e torne-a uma cor de fundo de #0ff. Crie uma classe chamada despesas e faça com que a cor de fundo seja #f0f. Crie uma classe chamada lucro e torne-a uma cor de fundo de #f00. Ao longo do documento, qualquer texto que menciona receitas, despesas ou lucros, anexou a classe apropriada a esse pedaço de texto.<br>
+<a href="https://enyus.github.io/santandercoders23/css/exercicio2.html">Veja a resolução aqui.</a><br>
 3. Você deverá criar um código HTML com CSS para alterar a tag li para ter as seguintes propriedades:<br>
   ● Um status de exibição de inline <br>
   ● Uma borda preta média com duas linhas <br>
@@ -89,7 +100,7 @@ Você deverá criar um código HTML que contenha um portfólio de apresentação
 <a href="https://enyus.github.io/santandercoders23/css/exercicio10.html">Veja a resolução aqui.</a><br>
 
 ### &#128293; Desafio CSS &#128293;
-Você deverá criar um código HTML com CSS que contenha um portfólio de apresentação seu, como desenvolvedor. Esse portfólio deverá conter uma foto sua, redes sociais para contato e descrição das suas experiências, tudo utilizando somente HTML e CSS. Ao final, coloque o portfólio no GitHub Pages.
+Você deverá criar um código HTML com CSS que contenha um portfólio de apresentação seu, como desenvolvedor. Esse portfólio deverá conter uma foto sua, redes sociais para contato e descrição das suas experiências, tudo utilizando somente HTML e CSS. Ao final, coloque o portfólio no GitHub Pages.<br>
 <a href="https://enyus.github.io/santandercoders23/css/desafio.html">Veja a resolução aqui.</a><br>
 
 
@@ -97,7 +108,8 @@ Você deverá criar um código HTML com CSS que contenha um portfólio de aprese
 <br>
 
 ## Exercícios Javascript 🧠
-1. Faça um programa que peça a temperatura em graus Fahrenheit (°F), transforme e mostre a temperatura em graus Celsius (°C).
+1. Faça um programa que peça a temperatura em graus Fahrenheit (°F), transforme e mostre a temperatura em graus Celsius (°C).<br>
+<a href="https://enyus.github.io/santandercoders23/javascript/exercicio1.html">Veja a resolução aqui.</a><br>
 2. Faça um programa que leia as coordenadas de 2 (dois) pontos em um plano cartesiano 2D: a coordenada x do primeiro ponto (x_1), a coordenada y do primeiro ponto (y_1), a coordenada x do segundo ponto (x_2) e a coordenada y do segundo ponto (y_2). Em seguida, calcule a distância euclidiana entre os pontos.
 3. Crie um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos seguintes intervalos ([0,25], (25,50], (50,75], (75,100]) este valor se encontra. Caso o valor não esteja em nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo”.
 4. Crie o jogo “Pedra, Papel, Tesoura” por meio de um código em JavaScript. Para isso, solicite que o primeiro jogador informe a sua escolha e depois o mesmo para o segundo jogador. Por fim, utilize os if’s para saber quem seria o vencedor.
