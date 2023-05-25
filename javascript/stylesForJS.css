@@ -85,6 +85,7 @@ footer a, footer a:visited {
     justify-content: center;
     display: none;
     border-bottom: #ddd 2px solid;
+    padding: 2rem 0;
 }
 
 #result {
