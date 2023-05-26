@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.button__container {
+    border: none;
+}
+
+.input__sist {
+    display: none;
+    width: 100%;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1.3rem;
+    line-height: 1.8rem;
+    border-style: solid;
+    border: #ddd 2px solid;
+    border-top: none;
+    padding: 0.5rem 2rem;
+    background-color: #003200;
+    color: #00c000;
+}
+
+.result__container {
+    flex-direction: column;
+    padding: 2rem;
+    font-family: 'Press Start 2P', cursive;
+    background-color: #003200;
+    color: #00c000;
+    border: #ddd 2px solid;
+    font-size: 1.3rem;
+    line-height: 1.8rem;
+}
+
+.result__container ul li {
+    list-style: none;
+}
+
+.result {
+    align-self: flex-start;
+    max-height: 60vh;
+    width: 100%;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+
+.result::-webkit-scrollbar {
+    width: 1rem;
+}
+
+.result::-webkit-scrollbar-track {
+    background: #00c000;
+}
+
+.result::-webkit-scrollbar-thumb {
+    background: #003200;
+}
+
+.result p, .result ol {
+    margin: 0;
+}
+
+#display__sist:last-child::after {
+    content: "|";
+    font-size: 1.8rem;
+    vertical-align: middle;
+    animation: piscar 0.7s infinite;
+}
+
+@keyframes piscar {
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}

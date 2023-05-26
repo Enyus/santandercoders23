@@ -132,7 +132,8 @@ Você deverá criar um código HTML com CSS que contenha um portfólio de aprese
   9.5. Devia para a vítima?<br>
 Cada resposta “sim” dá um ponto para o suspeito. A polícia considera que os suspeitos com 5 pontos são os assassinos, com 4 a 3 pontos são cúmplices e 2 pontos são apenas suspeitos, necessitando de outras investigações. Valores abaixo de 2 são liberados. No seu programa, você deve fazer essas perguntas e, de acordo com as respostas do usuário, informar como a polícia o considera.<br>
 <a href="https://enyus.github.io/santandercoders23/javascript/exercicio9.html">Veja a resolução aqui.</a><br>
-10. Faça um programa que fique pedindo uma resposta do usuário, entre 1, 2 e 3. Se o usuário digitar 1, o programa deve cadastrar um novo usuário, solicitando nome, idade, e-mail e CPF, guardando esse cadastro em um objeto, e cada objeto devo ser adicionado em um array. Quando o usuário digitar 2, o programa deve imprimir os usuários cadastrados; e se o usuário digitar 3, o programa deve encerrar.
+10. Faça um programa que fique pedindo uma resposta do usuário, entre 1, 2 e 3. Se o usuário digitar 1, o programa deve cadastrar um novo usuário, solicitando nome, idade, e-mail e CPF, guardando esse cadastro em um objeto, e cada objeto devo ser adicionado em um array. Quando o usuário digitar 2, o programa deve imprimir os usuários cadastrados; e se o usuário digitar 3, o programa deve encerrar.<br>
+<a href="https://enyus.github.io/santandercoders23/javascript/exercicio10.html">Veja a resolução aqui.</a><br>
 
 ### &#128293; Desafio JavaScript &#128293;
 Você já deve ter jogado o Jogo da Forca, certo? O que você acha de desenvolver o seu próprio Jogo da Forca em JavaScript? Esse será o seu desafio!
