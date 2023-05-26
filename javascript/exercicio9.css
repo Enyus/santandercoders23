@@ -1,0 +1,43 @@
+.input__container {
+    border-top: #ddd 2px solid;
+}
+
+.input__pergunta {
+    display: none;
+    align-items: center;
+    gap: 2rem;
+    border-top: #ddd 2px solid;
+}
+
+.input__pergunta:first-of-type {
+    display: flex;
+}
+
+.input__button {
+    background-color: #ddd;
+    color: #111;
+    padding: 0.5rem 2rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+input[type="radio"] {
+    display: none;
+}
+
+input[type="radio"]:checked + .input__button {
+    background-color: #555;
+    color: #ddd;
+}
+
+.button__container {
+    display: none;
+    margin-top: 0;
+    padding-top: 2rem;
+    border-top: #ddd 2px solid;
+}
+
+.result {
+    font-size: 3rem;
+    font-weight: 700;
+}

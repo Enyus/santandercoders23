@@ -116,17 +116,22 @@ Você deverá criar um código HTML com CSS que contenha um portfólio de aprese
 <a href="https://enyus.github.io/santandercoders23/javascript/exercicio3.html">Veja a resolução aqui.</a><br>
 4. Crie o jogo “Pedra, Papel, Tesoura” por meio de um código em JavaScript. Para isso, solicite que o primeiro jogador informe a sua escolha e depois o mesmo para o segundo jogador. Por fim, utilize os if’s para saber quem seria o vencedor.<br>
 <a href="https://enyus.github.io/santandercoders23/javascript/exercicio4.html">Veja a resolução aqui.</a><br>
-5. Faça um programa, usando loops, que peça para o usuário digitar vários números, um após outro, e que só finaliza quando o usuário digitar 0. Ao final imprima a soma de todos os números digitados.
-6. Faça um programa que imprima a tabuada do 9 (de 9 x 1 a 9 x 10) usando loops.
-7. Crie uma função que recebe o valor do raio de um círculo como parâmetro e retorna o valor da área desse círculo.
-8. Faça um programa que dados dois arrays de mesmo tamanho, imprima o produto escalar entre eles.
+5. Faça um programa, usando loops, que peça para o usuário digitar vários números, um após outro, e que só finaliza quando o usuário digitar 0. Ao final imprima a soma de todos os números digitados.<br>
+<a href="https://enyus.github.io/santandercoders23/javascript/exercicio5.html">Veja a resolução aqui.</a><br>
+6. Faça um programa que imprima a tabuada do 9 (de 9 x 1 a 9 x 10) usando loops.<br>
+<a href="https://enyus.github.io/santandercoders23/javascript/exercicio6.html">Veja a resolução aqui.</a><br>
+7. Crie uma função que recebe o valor do raio de um círculo como parâmetro e retorna o valor da área desse círculo.<br>
+<a href="https://enyus.github.io/santandercoders23/javascript/exercicio7.html">Veja a resolução aqui.</a><br>
+8. Faça um programa que dados dois arrays de mesmo tamanho, imprima o produto escalar entre eles.<br>
+<a href="https://enyus.github.io/santandercoders23/javascript/exercicio8.html">Veja a resolução aqui.</a><br>
 9. Vamos fazer um programa para verificar quem é o assassino de um crime. Para descobrir o assassino, a polícia faz um pequeno questionário com 5 perguntas onde a resposta só pode ser sim ou não:<br>
   9.1. Mora perto da vítima?<br>
   9.2. Já trabalhou com a vítima?<br>
   9.3. Telefonou para a vítima?<br>
   9.4. Esteve no local do crime?<br>
   9.5. Devia para a vítima?<br>
-Cada resposta “sim” dá um ponto para o suspeito. A polícia considera que os suspeitos com 5 pontos são os assassinos, com 4 a 3 pontos são cúmplices e 2 pontos são apenas suspeitos, necessitando de outras investigações. Valores abaixo de 2 são liberados. No seu programa, você deve fazer essas perguntas e, de acordo com as respostas do usuário, informar como a polícia o considera.
+Cada resposta “sim” dá um ponto para o suspeito. A polícia considera que os suspeitos com 5 pontos são os assassinos, com 4 a 3 pontos são cúmplices e 2 pontos são apenas suspeitos, necessitando de outras investigações. Valores abaixo de 2 são liberados. No seu programa, você deve fazer essas perguntas e, de acordo com as respostas do usuário, informar como a polícia o considera.<br>
+<a href="https://enyus.github.io/santandercoders23/javascript/exercicio9.html">Veja a resolução aqui.</a><br>
 10. Faça um programa que fique pedindo uma resposta do usuário, entre 1, 2 e 3. Se o usuário digitar 1, o programa deve cadastrar um novo usuário, solicitando nome, idade, e-mail e CPF, guardando esse cadastro em um objeto, e cada objeto devo ser adicionado em um array. Quando o usuário digitar 2, o programa deve imprimir os usuários cadastrados; e se o usuário digitar 3, o programa deve encerrar.
 
 ### &#128293; Desafio JavaScript &#128293;

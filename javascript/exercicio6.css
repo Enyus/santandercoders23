@@ -1,0 +1,11 @@
+.result__container {
+    flex-direction: column;
+}
+
+.result__container p {
+    margin: 0;
+}
+
+.button__button:disabled {
+    opacity: 0.5;
+}

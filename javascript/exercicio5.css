@@ -1,0 +1,29 @@
+.input__container {
+    display: flex;
+    justify-content: center;
+}
+
+.input__numero {
+    background-color: inherit;
+    color: inherit;
+    font-family: inherit;
+    font-size: 2rem;
+    text-align: center;
+    border-style: solid;
+    line-height: 2.5rem;
+    max-width: 40%;
+}
+
+#result__final {
+    font-weight: 900;
+    font-size: 10rem;
+    vertical-align: middle;
+}
+
+.button__button:disabled {
+    opacity: 0.5;
+}
+
+.result__container {
+    flex-direction: column;
+}

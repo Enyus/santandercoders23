@@ -1,0 +1,38 @@
+.input__array {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.input__array:first-of-type {
+    margin-bottom: 2rem;
+}
+
+.input__numero {
+    background-color: inherit;
+    color: inherit;
+    font-family: inherit;
+    font-size: 2rem;
+    text-align: center;
+    border-style: solid;
+    line-height: 2.5rem;
+    max-width: 10rem;
+}
+
+.result__container {
+    align-items: center;
+    text-align: center;
+}
+
+.produto__escalar {
+    vertical-align: middle;
+    font-size: 1rem;
+}
+
+@media screen and (max-width: 760px) {
+    .input__array {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
