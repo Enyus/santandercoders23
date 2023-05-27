@@ -146,7 +146,8 @@ Para te ajudar com isso, vamos te passar algumas diretrizes para que você tenha
   3.2. Por exemplo, se a palavra for "banana", você deve um array com o seguinte conteúdo: ['_', '_', '_', '_', '_', '_']. Observe que temos 6 caracteres.<br>
   3.3. Esse array vai ser importante para que você possa mostrar ao usuário o “formato” da palavra e, a medida que ele for acertando as letras, você coloca a letra dentro do array, na posição correta, o que vai facilitar a visualização/identificação da palavra.<br>
 4. A partir daí o jogo começa, ou seja, você irá pedir que o usuário informe uma letra repetidas vezes, até que ele erre 6 vezes (pela regra tradicional do jogo da forca) ou acerte todas as letras da palavra. Observe que isso corresponde a uma estrutura de repetição.
-5. Lembre-se que, ao término dessa repetição, você deve mostrar que o usuário perdeu, caso ele tenha errado 6 vezes; ou que ele acertou a palavra, caso ele a tenha completado. Além disso, é importante que você informe, em todo caso, qual era a palavra a ser descoberta.
+5. Lembre-se que, ao término dessa repetição, você deve mostrar que o usuário perdeu, caso ele tenha errado 6 vezes; ou que ele acertou a palavra, caso ele a tenha completado. Além disso, é importante que você informe, em todo caso, qual era a palavra a ser descoberta.<br>
+<a href="https://enyus.github.io/santandercoders23/javascript/desafio.html">Veja a resolução aqui.</a><br>
 
 
 
