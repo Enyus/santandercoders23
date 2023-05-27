@@ -1,0 +1,67 @@
+.result__container {
+  flex-direction: column;
+}
+
+.header__icon {
+  height: 4.3rem;
+  vertical-align: bottom;
+}
+
+#canvas {
+  background-color: #555;
+}
+
+/* Originais: */
+ul {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  padding: 0;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+li {
+  font-size: 2.5rem;
+  background-color: #555;
+  width: 3rem;
+  height: 3rem;
+  border-bottom: 5px solid black;
+  text-align: center;
+}
+
+label,
+input,
+button {
+  display: block;
+  margin: 10px auto;
+}
+
+input {
+  font-size: 2.5rem;
+  width: 3rem;
+  height: 3rem;
+  text-align: center;
+}
+
+button {
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.erro {
+  color: red;
+  border-color: red;
+}
+
+.vitoria {
+  color: green;
+  font-size: 2rem;
+  margin: 50% auto;
+}
+
+.derrota {
+  color: red;
+  font-size: 2rem;
+  margin: 50% auto;
+}
