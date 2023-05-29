@@ -6,7 +6,9 @@ Repositório para guardar os exercícios e desafios da Fase II da Trilha Web Fro
 | :sparkles: Nome        | **Santander Coders 2023**
 | :label: Tecnologias | html, css, javascript
 | :rocket: URL         | https://enyus.github.io/santandercoders23/
-| :fire: Desafio     | TODO
+| :fire: Desafio HTML     | https://enyus.github.io/santandercoders23/html/desafio.html
+| :fire: Desafio CSS     | https://enyus.github.io/santandercoders23/css/desafio.html
+| :fire: Desafio JavaScript     | https://enyus.github.io/santandercoders23/javascript/desafio.html
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](./public/images/santander_coders_logo.png#vitrinedev)
