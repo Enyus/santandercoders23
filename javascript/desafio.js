@@ -85,7 +85,6 @@ async function sortearPalavra() {
       palavra = data.word;
       palavra = retira_acentos(palavra);
       palavra = palavra.toUpperCase();
-      console.log(palavra);
       for (let i = 0; i < palavra.length; i++) {
         let letra = palavra[i];
         arrayDaPalavra.push(letra);
@@ -186,7 +185,7 @@ function fimDeJogo(condicao) {
   canvas.style.display = "none";
   switch (condicao) {
     case "vitoria":
-      caixaPerguntas.innerHTML = "<p class='vitoria'>Parabéns você venceu!</p>";
+      caixaPerguntas.innerHTML = `<p class='vitoria'>Parabéns você venceu! A palavra era ${palavra}</p>`;
       break;
     case "derrota":
       caixaPerguntas.innerHTML = `<p class='derrota'>Que pena, você perdeu. A palavra era ${palavra}</p>`;
@@ -199,6 +198,7 @@ function reset() {
   location.reload();
 }
 
+// Obrigado Stack Overflow!
 function retira_acentos(str) {
   com_acento =
     "ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝŔÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿŕ";
