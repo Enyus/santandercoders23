@@ -6,9 +6,9 @@ Repositório para guardar os exercícios e desafios da Fase II da Trilha Web Fro
 | :sparkles: Nome        | **Santander Coders 2023**
 | :label: Tecnologias | html, css, javascript
 | :rocket: URL         | https://enyus.github.io/santandercoders23/
-| :fire: Desafio HTML     | https://enyus.github.io/santandercoders23/html/desafio.html
-| :fire: Desafio CSS     | https://enyus.github.io/santandercoders23/css/desafio.html
-| :fire: Desafio JavaScript     | https://enyus.github.io/santandercoders23/javascript/desafio.html
+| :fire: Desafio HTML 🧱     | https://enyus.github.io/santandercoders23/html/desafio.html
+| :fire: Desafio CSS 🎨     | https://enyus.github.io/santandercoders23/css/desafio.html
+| :fire: Desafio JavaScript 🧠     | https://enyus.github.io/santandercoders23/javascript/desafio.html
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](./public/images/santander_coders_logo.png#vitrinedev)
@@ -17,7 +17,7 @@ Repositório para guardar os exercícios e desafios da Fase II da Trilha Web Fro
 Fui selecionado para a segunda fase do programa Santander Coders, que me deu acesso aos cursos introdutórios, ministrados pela <a href="https://ada.tech/sou-aluno">ADA</a>, de Git e Versionamento, HTML, CSS, Javascript e React. Após finalizar as aulas, nos é sugerido realizar alguns exercícios que puderam ser encontrados na <a href="https://discord.com/invite/DgHqnPJc7Y">comunidade no Discord da Let´s Code</a>. Como já estou um pouco familiarizado com essas tecnologias, resolvi criar esse repositório para guardar tais exercícios.
 
 ### Conteúdo
-| <a href="#exercícios-html-">Exercícios de HTML</a> | <a href="#exercícios-css-">Exercícios de CSS</a> | <a href="#exercícios-javascript-">Exercícios de JavaScript</a> |
+| <a href="#exercícios-html-">Exercícios de HTML 🧱</a> | <a href="#exercícios-css-">Exercícios de CSS 🎨</a> | <a href="#exercícios-javascript-">Exercícios de JavaScript 🧠</a> |
 
 ## Exercícios HTML 🧱
 1. Código HTML que use apenas parágrafos e quebra de linhas (sem usar `<br>`).<br>
